@@ -1,12 +1,84 @@
-# Tags: latest, 1.3.0-debian-10-r159, 1.3.0, 1-debian-10, 1
+# Tags: latest, 1.3.0-debian-10-r183, 1.3.0, 1-debian-10, 1
 FROM bitnami/elasticsearch-exporter:latest
-FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r159
+FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r183
 FROM bitnami/elasticsearch-exporter:1.3.0
 FROM bitnami/elasticsearch-exporter:1-debian-10
 FROM bitnami/elasticsearch-exporter:1
 
 # Tags: _
 FROM bitnami/elasticsearch-exporter:_
+
+# Tags: 1.3.0-debian-10-r182
+FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r182
+
+# Tags: 1.3.0-debian-10-r181
+FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r181
+
+# Tags: 1.3.0-debian-10-r180
+FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r180
+
+# Tags: 1.3.0-debian-10-r179
+FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r179
+
+# Tags: 1.3.0-debian-10-r178
+FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r178
+
+# Tags: 1.3.0-debian-10-r177
+FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r177
+
+# Tags: 1.3.0-debian-10-r176
+FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r176
+
+# Tags: 1.3.0-debian-10-r175
+FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r175
+
+# Tags: 1.3.0-debian-10-r174
+FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r174
+
+# Tags: 1.3.0-debian-10-r173
+FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r173
+
+# Tags: 1.3.0-debian-10-r172
+FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r172
+
+# Tags: 1.3.0-debian-10-r171
+FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r171
+
+# Tags: 1.3.0-debian-10-r170
+FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r170
+
+# Tags: 1.3.0-debian-10-r169
+FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r169
+
+# Tags: 1.3.0-debian-10-r168
+FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r168
+
+# Tags: 1.3.0-debian-10-r167
+FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r167
+
+# Tags: 1.3.0-debian-10-r166
+FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r166
+
+# Tags: 1.3.0-debian-10-r165
+FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r165
+
+# Tags: 1.3.0-debian-10-r164
+FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r164
+
+# Tags: 1.3.0-debian-10-r163
+FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r163
+
+# Tags: 1.3.0-debian-10-r162
+FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r162
+
+# Tags: 1.3.0-debian-10-r161
+FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r161
+
+# Tags: 1.3.0-debian-10-r160
+FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r160
+
+# Tags: 1.3.0-debian-10-r159
+FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r159
 
 # Tags: 1.3.0-debian-10-r158
 FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r158
@@ -25,72 +97,3 @@ FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r154
 
 # Tags: 1.3.0-debian-10-r153
 FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r153
-
-# Tags: 1.3.0-debian-10-r152
-FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r152
-
-# Tags: 1.3.0-debian-10-r151
-FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r151
-
-# Tags: 1.3.0-debian-10-r150
-FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r150
-
-# Tags: 1.3.0-debian-10-r149
-FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r149
-
-# Tags: 1.3.0-debian-10-r148
-FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r148
-
-# Tags: 1.3.0-debian-10-r147
-FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r147
-
-# Tags: 1.3.0-debian-10-r146
-FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r146
-
-# Tags: 1.3.0-debian-10-r145
-FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r145
-
-# Tags: 1.3.0-debian-10-r144
-FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r144
-
-# Tags: 1.3.0-debian-10-r143
-FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r143
-
-# Tags: 1.3.0-debian-10-r142
-FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r142
-
-# Tags: 1.3.0-debian-10-r141
-FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r141
-
-# Tags: 1.3.0-debian-10-r140
-FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r140
-
-# Tags: 1.3.0-debian-10-r139
-FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r139
-
-# Tags: 1.3.0-debian-10-r138
-FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r138
-
-# Tags: 1.3.0-debian-10-r137
-FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r137
-
-# Tags: 1.3.0-debian-10-r136
-FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r136
-
-# Tags: 1.3.0-debian-10-r135
-FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r135
-
-# Tags: 1.3.0-debian-10-r134
-FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r134
-
-# Tags: 1.3.0-debian-10-r133
-FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r133
-
-# Tags: 1.3.0-debian-10-r132
-FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r132
-
-# Tags: 1.3.0-debian-10-r131
-FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r131
-
-# Tags: 1.3.0-debian-10-r130
-FROM bitnami/elasticsearch-exporter:1.3.0-debian-10-r130
